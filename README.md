@@ -1,2 +1,2 @@
 # RCS-Website
-Website for Rice Creative Society
+Website development for Rice Creative Society. https://ricecreativesociety.github.io/home/
