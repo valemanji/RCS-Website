@@ -18,9 +18,9 @@ body{
 }
 @font-face {
     font-family: 'Century';
-    src: url('Century-Normal.woff2') format('woff2'),
-        url('Century-Normal.woff') format('woff'),
-        url('Century-Normal.ttf') format('truetype');
+    src: url('./fonts/Century-Normal.woff2') format('woff2'),
+        url('./fonts/Century-Normal.woff') format('woff'),
+        url('./fonts/Century-Normal.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
